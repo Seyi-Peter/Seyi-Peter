@@ -43,9 +43,8 @@ Welcome to my GitHub profile! I'm a passionate **Software Developer** and **AI E
 Check out a few of my featured repositories:
 
 - 🔒 [Cyberbullying Detection System](https://github.com/yourusername/project-name) — AI-based NLP model for classifying offensive content.
-- 🎓 [E-Learning Platform](https://github.com/yourusername/project-name) — Role-based web app built with Django and PostgreSQL.
 - 🤖 [AI Chatbot](https://github.com/yourusername/project-name) — Personal chatbot using rule-based logic and NLP techniques.
-- 📊 [Student Performance Tracker](https://github.com/yourusername/project-name) — Dashboard app for tracking academic metrics.
+
 
 ---
 
