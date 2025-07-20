@@ -10,7 +10,6 @@ Welcome to my GitHub profile! I'm a passionate **Software Developer** and **AI E
 - 🧠 Exploring cutting-edge tools in **Deep Learning** and **NLP**
 - 🧰 Currently learning: **PyTorch**, **FastAPI**, and **Cloud Deployment (Render, Vercel)**
 - 🌍 Based in Nigeria, building solutions tailored for Africa and beyond
-- 🏆 NYSC CDS President (ICT), Hackathon Participant @ LASU Hackaholics 2023
 
 ---
 
