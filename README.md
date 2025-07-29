@@ -41,8 +41,8 @@ Welcome to my GitHub profile! I'm a passionate **Software Developer** and **AI E
 
 Check out a few of my featured repositories:
 
-- 🔒 [Cyberbullying Detection System](https://github.com/yourusername/project-name) — AI-based NLP model for classifying offensive content.
-- 🤖 [AI Chatbot](https://github.com/yourusername/project-name) — Personal chatbot using rule-based logic and NLP techniques.
+- 🔒 [Cyberbullying Detection System](https://github.com/Seyi-Peter/Cyberbullying_detection) — AI-based NLP model for classifying offensive content.
+- 🤖 [AI Chatbot](https://github.com/Seyi-Peter/Simple_AI_Chatbot) — Personal chatbot using rule-based logic and NLP techniques.
 
 
 ---
